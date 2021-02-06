@@ -36,6 +36,8 @@
     "coverage": {
       "/Users/daphneyang/Desktop/67-373/lab5-choretracker-starter/app/models/child.rb": [
         1,
+        1,
+        1,
         null,
         null
       ],
@@ -45,12 +47,16 @@
         null
       ],
       "/Users/daphneyang/Desktop/67-373/lab5-choretracker-starter/app/models/chore.rb": [
-        0,
-        0
+        1,
+        1,
+        1,
+        null
       ],
       "/Users/daphneyang/Desktop/67-373/lab5-choretracker-starter/app/models/task.rb": [
-        0,
-        0
+        1,
+        1,
+        1,
+        null
       ],
       "/Users/daphneyang/Desktop/67-373/lab5-choretracker-starter/app/controllers/application_controller.rb": [
         0,
@@ -304,6 +310,6 @@
         0
       ]
     },
-    "timestamp": 1612493934
+    "timestamp": 1612629175
   }
 }
