@@ -34,6 +34,31 @@
   },
   "Unit Tests": {
     "coverage": {
+      "/Users/daphneyang/Desktop/67-373/lab5-choretracker-starter/app/models/chore.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        null,
+        1,
+        2,
+        null,
+        null,
+        null
+      ],
+      "/Users/daphneyang/Desktop/67-373/lab5-choretracker-starter/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
       "/Users/daphneyang/Desktop/67-373/lab5-choretracker-starter/app/models/task.rb": [
         1,
         1,
@@ -42,17 +67,6 @@
         1,
         1,
         null,
-        3,
-        2,
-        null
-      ],
-      "/Users/daphneyang/Desktop/67-373/lab5-choretracker-starter/app/models/application_record.rb": [
-        1,
-        1,
-        null
-      ],
-      "/Users/daphneyang/Desktop/67-373/lab5-choretracker-starter/app/models/chore.rb": [
-        1,
         1,
         1,
         null
@@ -324,6 +338,6 @@
         0
       ]
     },
-    "timestamp": 1612629796
+    "timestamp": 1612715484
   }
 }
